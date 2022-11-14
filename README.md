@@ -19,3 +19,8 @@ The requests library can be installed using `pip install requests`.
 
 # Main Function
 Given NWS box coordinates and an optional label, print the temperature and forcast for the current hour. 
+
+# Examples
+Simple GTK 3 app that displays the weather near UMass Amherst for the next 48 hours:
+
+![image](https://user-images.githubusercontent.com/69878563/201768004-b6e920de-f88e-4040-8675-06adbd19885d.png)
