@@ -24,4 +24,5 @@ Given NWS box coordinates and an optional label, print the temperature and forca
 Simple GTK 3 app that displays the weather near UMass Amherst for the next 48 hours:
 
 ![image](https://user-images.githubusercontent.com/69878563/201768004-b6e920de-f88e-4040-8675-06adbd19885d.png)
+
 View the code in action in the file `app.py`. 
